@@ -14,7 +14,7 @@ pylint = "*"
 [packages]
 
 click = "==6.7"
-flask = "==0.12.2"
+flask = "==0.12.3"
 itsdangerous = "==0.24"
 "jinja2" = "==2.10"
 markupsafe = "==1.0"
